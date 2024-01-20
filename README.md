@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sahan Wijesinghe</h1>
 <h3 align="center">I'm from Sri Lanka, and I do content Design and Development.</h3>
 
+- 🌱 I’m currently learning **Software Engineering at SLTC Research University**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
