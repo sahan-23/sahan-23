@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahan Wijesinghe</h1>
-<h3 align="center">Welcome to my GitHub space! 👋 I'm passionate about crafting compelling content and developing user-centric experiences. 🌐✨</h3>
-- 🌱 I’m currently learning **Software Engineering at SLTC Research University**
- I embark on a journey to seamlessly blend captivating content with cutting-edge technology. Here, you'll find a curated collection of projects that showcase my prowess in crafting compelling digital experiences. Embracing the ever-evolving landscape of modern programming languages and frameworks, I am committed to continuous learning and innovation. Join me on this adventure as we explore the intersection of design and development, pushing boundaries and creating immersive digital narratives that captivate and inspire. Let's code the future together!
+<h3 align="center">Welcome to my GitHub space! 👋 <br>I'm passionate about crafting compelling content and developing user-centric experiences. 🌐✨</h3>
+- 🌱 I’m currently learning **Software Engineering at SLTC Research University**<br>
+- I embark on a journey to seamlessly blend captivating content with cutting-edge technology. Here, you'll find a curated collection of projects that showcase my prowess in crafting compelling digital experiences. Embracing the ever-evolving landscape of modern programming languages and frameworks, I am committed to continuous learning and innovation. Join me on this adventure as we explore the intersection of design and development, pushing boundaries and creating immersive digital narratives that captivate and inspire. Let's code the future together!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahan-23&theme=dark&show_icons=true)
 <h3 align="left">Languages and Tools:</h3>
