@@ -13,9 +13,10 @@
 
 ### 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,php,javascript,html,css,flutter,react,mysql" />
+  <img src="https://skillicons.dev/iconsi=html,css,javascript,typescript,react,nextjs,redux,flutter,tailwind,bootstrap,nodejs,express,php,java,spring,python,django,flask,mongodb" />
+  
   <br>
-  <img src="https://skillicons.dev/icons?i=figma,ai,ps,androidstudio,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,postgres,aws,azure,gcp,docker,kubernetes,heroku,vercel,netlify,git,github,gitlab,postman,figma,ai,ps,androidstudio,vscode,visualstudio" />
 </p>
 
 ---
